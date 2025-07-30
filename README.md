@@ -8,3 +8,4 @@ Before running tests, install dependencies:
 npm install
 npm test
 ```
+# smoke‑test
